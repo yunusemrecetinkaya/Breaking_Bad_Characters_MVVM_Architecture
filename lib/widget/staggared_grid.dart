@@ -1,7 +1,6 @@
 import 'package:breaking_bad_api_mvvm_model/view/breaking_bad_detail.dart';
 import 'package:breaking_bad_api_mvvm_model/view_model/breaking_bad_view_model.dart';
 import 'package:breaking_bad_api_mvvm_model/widget/image_loading.dart';
-import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_staggered_grid_view/flutter_staggered_grid_view.dart';
 
