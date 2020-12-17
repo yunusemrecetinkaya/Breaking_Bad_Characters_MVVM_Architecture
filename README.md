@@ -3,5 +3,5 @@
 API : https://breakingbadapi.com/api/characters
 
 
-<img width="200" src="https://github.com/yunusemrecetinkaya/Flutter_Deprem_Api/blob/main/screenshots/ss.jpg">
+<img width="200" src="https://github.com/yunusemrecetinkaya/Breaking_Bad_Characters_MVVM_Architecture/blob/main/gif/Screenrecorder-2020-12-17-17-25-29-368.gif">
 
